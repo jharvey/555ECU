@@ -1,0 +1,35 @@
+<Qucs Schematic 0.0.10>
+<Properties>
+  <View=0,10,982,1117,1,0,60>
+  <Grid=10,10,0>
+  <DataSet=555_Fig9.dat>
+  <DataDisplay=555_Fig9.sch>
+  <OpenDisplay=1>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 50 229 885 199 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"reset.Vt" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 50 471 887 191 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"vtrig.Vt" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 50 744 891 204 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"vout.Vt" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 60 1027 880 197 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"vdis.Vt" #0000ff 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>

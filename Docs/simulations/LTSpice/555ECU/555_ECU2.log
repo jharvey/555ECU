@@ -1,0 +1,172 @@
+Circuit: * C:\Users\Owner\Desktop\555ECU\Docs\SIM\LTSpice\555_ECU\555_ECU2.asc
+
+Maf: Removing PWL point (0.0159,1.5)
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+vernier = 0.5
+vernier = 0.25
+Gmin = 5.07481e-007
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 4.88173e-007
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+Gmin = 4.8568e-007
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 88.6364%
+vernier = 0.0625
+Source Step = 88.592%
+Source Step = 88.6216%
+Source Step = 88.6512%
+Source Step = 88.6808%
+Source Step = 88.7103%
+Source Step = 88.7399%
+Source Step = 88.7695%
+Source Step = 88.7991%
+Source Step = 88.8287%
+Source Step = 88.8583%
+Source Step = 88.8879%
+vernier = 0.00146484
+Source Step = 88.9249%
+Source Step = 88.9693%
+Source Step = 89.0137%
+Source Step = 89.0581%
+Source Step = 89.1025%
+vernier = 0.00219727
+Source Step = 89.1557%
+Source Step = 89.2223%
+Source Step = 89.2889%
+Source Step = 89.3555%
+Source Step = 89.4221%
+vernier = 0.0032959
+Source Step = 89.4986%
+Source Step = 89.5985%
+Source Step = 89.6984%
+Source Step = 89.7983%
+Source Step = 89.8981%
+vernier = 0.00494385
+Source Step = 90.008%
+Source Step = 90.0417%
+Source Step = 90.0792%
+Source Step = 90.1166%
+Source Step = 90.1541%
+Source Step = 90.1915%
+Source Step = 90.229%
+Source Step = 90.2664%
+Source Step = 90.3039%
+Source Step = 90.3413%
+Source Step = 90.3788%
+Source Step = 90.4162%
+Source Step = 90.4537%
+Source Step = 90.4911%
+Source Step = 90.5286%
+Source Step = 90.566%
+Source Step = 90.6035%
+Source Step = 90.641%
+Source Step = 90.6784%
+Source Step = 90.7159%
+Source Step = 90.7533%
+Source Step = 90.7908%
+Source Step = 90.8282%
+Source Step = 90.8657%
+Source Step = 90.9031%
+Source Step = 90.9406%
+Source Step = 90.978%
+Source Step = 91.0155%
+Source Step = 91.0529%
+Source Step = 91.0904%
+Source Step = 91.1278%
+Source Step = 91.1653%
+Source Step = 91.2028%
+Source Step = 91.2402%
+Source Step = 91.2777%
+Source Step = 91.3151%
+Source Step = 91.3526%
+Source Step = 91.39%
+Source Step = 91.4275%
+Source Step = 91.4649%
+Source Step = 91.5024%
+Source Step = 91.5398%
+Source Step = 91.5773%
+vernier = 0.00185394
+Source Step = 91.6204%
+Source Step = 91.6765%
+Source Step = 91.7327%
+Source Step = 91.7889%
+Source Step = 91.8451%
+vernier = 0.00278091
+Source Step = 91.9069%
+Source Step = 91.9911%
+Source Step = 92.0754%
+Source Step = 92.1597%
+Source Step = 92.244%
+vernier = 0.00417137
+Source Step = 92.3324%
+Source Step = 92.4588%
+Source Step = 92.5853%
+Source Step = 92.7117%
+Source Step = 92.8381%
+Source Step = 92.9645%
+vernier = 0.00625706
+Source Step = 93.1541%
+Source Step = 93.3437%
+Source Step = 93.5333%
+Source Step = 93.7229%
+Source Step = 93.9125%
+vernier = 0.00938559
+Source Step = 94.1874%
+Source Step = 94.4718%
+Source Step = 94.7563%
+Source Step = 95.0407%
+Source Step = 95.3251%
+vernier = 0.0140784
+Source Step = 95.7233%
+Source Step = 96.1499%
+Source Step = 96.5765%
+Source Step = 97.0031%
+Source Step = 97.4297%
+vernier = 0.0211176
+Source Step = 98.0057%
+Source Step = 98.6456%
+Source Step = 99.2855%
+Source Step = 99.9254%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Thu Jun 25 06:43:24 2020
+Total elapsed time: 13.173 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 47228
+traniter = 13222
+tranpoints = 3662
+accept = 2935
+rejected = 727
+matrix size = 78
+fillins = 56
+solver = Normal
+Thread vector: 32.0/28.1[2] 24.8/15.1[2] 8.2/7.1[2] 4.0/7.1[1]  2592/500
+Matrix Compiler1: 9.38 KB object code size  9.7/8.1/[4.6]
+Matrix Compiler2: 8.79 KB object code size  6.5/6.6/[3.8]
+
